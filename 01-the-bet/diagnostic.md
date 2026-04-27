@@ -3,8 +3,8 @@
 ## Product
 <!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
 
-**Product:**
-**Your Role:**
+**Product:** Moderation Engine
+**Your Role:** Product Manager
 
 ---
 
@@ -13,27 +13,27 @@
 ### Contextual Moat — __/5
 *Workflow depth × switching cost. Would users leave in a weekend if a competitor showed up?*
 
-**Score rationale:**
+**Score rationale:** 5
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):** 4
 
 ---
 
 ### Data Advantage — __/5
 *Proprietary signal that compounds with usage. What do you see that OpenAI doesn't?*
 
-**Score rationale:**
+**Score rationale:** 4
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):** 3
 
 ---
 
 ### Platform Exposure — __/5
 *Encroachment risk × pivot speed. If Apple/Google/OpenAI ships your hero feature native — then what?*
 
-**Score rationale:**
+**Score rationale:** 3
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):** 3
 
 ---
 
