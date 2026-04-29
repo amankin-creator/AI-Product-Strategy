@@ -10,6 +10,8 @@
 <!-- Paste the shareable URL -->
 https://lovable.dev/projects/8b9a8650-339b-4fba-a007-80c33b8f70cc
 
+modmax-advisor.lovable.app
+
 ## AI Value Archetype
 <!-- Automator / Copilot / Oracle / Creator / Orchestrator -->
 
