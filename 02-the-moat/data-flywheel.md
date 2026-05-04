@@ -3,24 +3,28 @@
 ## Flywheel Loops
 
 ### Loop 1: Usage → Signal
-**Score: __/5**
+**Score: _5_/5**
 *How does usage generate proprietary data?*
+Moderation content-type like short form text, long form text, voip, images and videos
 
 ### Loop 2: Signal → Model
-**Score: __/5**
+**Score: _4_/5**
 *How does that data improve the model?*
+Feedback goes back to finetune the model in a niche use-case like moderation and helps understand product/game genre related nuances
 
 ### Loop 3: Model → Experience
-**Score: __/5**
+**Score: __4/5**
 *How does the better model improve UX?*
+Feedback especially violation/no-violation for genre specific games becomes the real differentiator. A phrase such as "Kill 'em" will have different meaning and violation in a kids game vs a First Person Shooter multiplayer game
 
 ### Loop 4: Experience → Usage
-**Score: __/5**
+**Score: _3_/5**
 *How does better UX drive more usage?*
+Technically yes, more feedback should ideally help fine-tune the model better with each iteration provided the host model doesn't plateua on its performance.
 
-**Total Flywheel Score: __/20**
-**Weakest Loop:**
-**Fix for weakest loop:**
+**Total Flywheel Score: _16_/20**
+**Weakest Loop:** Model accuracy plateau
+**Fix for weakest loop:** 
 
 ---
 
@@ -42,6 +46,6 @@
 
 *Your partner played the Big Tech attacker. What was their plan to kill you?*
 
-**Attacker:**
-**Attack vector:**
-**Your defense:**
+**Attacker:** ToxMod
+**Attack vector:** Headstart before 
+**Your defense:** Quality moat across images and video
