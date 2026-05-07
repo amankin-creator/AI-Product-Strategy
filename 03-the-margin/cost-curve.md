@@ -1,5 +1,18 @@
 # Cost Curve & Pricing Strategy
 
+# Leader Filler Killer
+
+Leader
+_____
+Filler
+_____
+Killer
+_____
+Killer usage %
+_____
+Bundle or add-on
+_____
+
 ## Cost Model
 
 | Cost Category | Per-User/Month | Notes |
